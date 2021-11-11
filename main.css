@@ -492,13 +492,12 @@ height:3.75rem;
         width: 80px!important;
     }
 
-    .parteners-icon
-    {
-        
     
-    
-}
-
+footer-text
+   
+   {
+       font-size: 0.5rem!important;
+   }
 
 
 @media only screen and (max-width: 1080px)
